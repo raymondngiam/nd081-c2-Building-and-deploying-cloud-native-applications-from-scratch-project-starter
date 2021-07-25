@@ -72,4 +72,10 @@
 
 2. The student should be able to containerize their Flask application with Dockerfile.
 
+    <img src='solution_images/dockerfileACR.png'>
+
 3. The code demonstrates an automated pipeline to spin Kubernetes services in Azure.
+
+    <img src='solution_images/aks-deploy1.png'>
+
+    <img src='solution_images/aks-deploy2.png'>
